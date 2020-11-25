@@ -1,0 +1,45 @@
+@import url(//fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.header {
+  margin-bottom: 200px;
+}
+
+.nav {
+  display: inline-block;
+  position: sticky;
+  top: 30px;
+  width: 80px;
+  height: 80px;
+  background: blue;
+}
+
+.editors {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.al_middle {
+  text-align: center;
+}
+
+.salePrice {
+  color: red;
+  opacity: 50%;
+}
+
+.tableStyle {
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.cardStyle {
+  margin: 10px;
+  padding: 5px;
+  height: 400px;
+  width: 300px;
+}
+* {
+  font-family: 'Nanum Gothic', sans-serif;
+}
